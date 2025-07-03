@@ -30,7 +30,7 @@ The DWG file contains a well-layered 2D drawing that conforms to drafting standa
 
 ##  Features of the House Plan
 
-### 🛏 Residential Zones
+###  Residential Zones
 
 - **Bedrooms:** 2 or 3 bedrooms (depending on configuration), placed for privacy and natural light.
 - **Living Room:** Centrally located for access and interaction.
